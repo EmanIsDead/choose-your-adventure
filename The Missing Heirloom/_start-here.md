@@ -8,4 +8,4 @@
 >
 > Your choices determine whether you recover the heirloom, expose a secret betrayal, or lose everything.
 
-:gem: [Begin your journey](./scene1.md) :sparkles:
+:gem: [Begin your journey](./scene1.md) :sparkles:gi
