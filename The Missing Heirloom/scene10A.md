@@ -10,7 +10,7 @@ He makes you feel more at ease, so you decide to tell him exactly what you are l
 
  
 
-He tells me how fond he was of my Grandmother and is willing to help in any way he can, and he says he thinks he can. 
+He tells you how fond he was of my Grandmother and is willing to help in any way he can, and he says he thinks he can. 
 
  
 
