@@ -20,7 +20,7 @@ Without hesitation, Daryl reaches into his pocket for his phone. He proceeds to 
 
  
 
-You are enrgaged, but you know what needs to be done now. 
+You are enraged, but you know what needs to be done now. 
 
  
 

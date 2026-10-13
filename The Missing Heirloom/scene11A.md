@@ -30,7 +30,7 @@ Is this just a game? Or is Daryl really trying to help me?
 
  
 
-## :gem: Do you continue to trust Daryl?   
+## :gem: Do you continue to trust Daryl?
 
  
 

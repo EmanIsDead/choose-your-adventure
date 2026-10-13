@@ -28,4 +28,4 @@ You knew he was lying. He is playing a game with you.
 
 - **Lost cause?** — [Yes](scene12B.md) :sparkles: 
 
-- **Lost cause.** — [No](scene12C.md) :sparkles:
+- **Lost cause?** — [No](scene12C.md) :sparkles:

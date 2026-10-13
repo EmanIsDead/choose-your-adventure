@@ -22,7 +22,7 @@ Uncle Ray begins explaining:
 
  
 
-> "I knew you were determined to find your Grandmother's locket. I decided to start my own investigation. I wanted to help you find it and let it be a surprise. You have never trusted me and I wanted to regain your trust and do something nice and meaningful for you. I promise this is the truth!" 
+> "I knew you were determined to find your Grandmother's locket. I decided to start my own investigation. I wanted to help you find it and let it be a surprise. You have never trusted me and I wanted to regain your trust and do something nice and meaningful for you. I found it and hid it somewhere safe until I could give it to you. I promise this is the truth!" 
 
  
 
