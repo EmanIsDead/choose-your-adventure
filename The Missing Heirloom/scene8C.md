@@ -16,5 +16,5 @@ Unsure of what the right answer is, you come up with two options as you are look
 
 ## :gem: Which are you chosing?  
 
-- **Search the Diningroom** — [Search the Diningroom](scene9C.md) :sparkles:
+- **Search the dining room** — [Search the dining room](scene9C.md) :sparkles:
 - **Make some calls and ask for help** — [Call friends and family](scene8E.md) :sparkles:
