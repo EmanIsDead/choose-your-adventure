@@ -14,7 +14,7 @@ It feels like it's been hours.
 
  
 
-You thnk you have made a mistake. You think you do need some help. You know you need some help. You decide to backtrack on earlier decisions. 
+You think you have made a mistake. You think you do need some help. You know you need some help. You decide to backtrack on earlier decisions. You need some help.
 
  
 
