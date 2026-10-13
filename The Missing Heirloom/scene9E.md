@@ -1,4 +1,4 @@
-#  :herb: Scene 9E — Search the Outside 
+#  :eyeglasses: Scene 9E — Search the Outside 
 
  
 
