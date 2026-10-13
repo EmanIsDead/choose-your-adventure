@@ -14,7 +14,7 @@ Bit and pieces you recall:
 
  
 
- > “Harold, the oldest, is a decent man. He tries to do right with the farm and his brothers, but it is hard. I know I can count on him if I need something though." 
+> “Harold, the oldest, is a decent man. He tries to do right with the farm and his brothers, but it is hard. I know I can count on him if I need something though." 
 
  
 
@@ -22,7 +22,7 @@ Bit and pieces you recall:
 
  
 
-   > “And Wayne. I have always had a soft spot for Wayne. He's a bit shy and mysterious, which has made getting to know him over the years difficult." 
+> “And Wayne. I have always had a soft spot for Wayne. He's a bit shy and mysterious, which has made getting to know him over the years difficult." 
 
  
 
