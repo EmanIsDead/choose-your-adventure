@@ -13,7 +13,7 @@ One page stands out:
 
 Your stomach drops.
 
-You flip to the last entry. It mentions a **secret door** somewhere in the house.
+You flip to the last entry. It mentions a secret door somewhere in the house.
 
 But another detail catches your eye: a name scribbled angrily in the margin. Someone she suspected.
 
