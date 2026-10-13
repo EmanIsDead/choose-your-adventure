@@ -12,7 +12,7 @@ Someone has been here recently.
 
 You decide to start searching the house.
 
-## :gem: What do you want to investigate first?
+## :gem: Where do you want to investigate first?
 
 - **Explore the attic** — [Go to attic](scene2A.md) :sparkles:
 - **Search the study** — [Go to the study](scene2B.md) :sparkles:
