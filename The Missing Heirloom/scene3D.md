@@ -19,5 +19,5 @@ A sudden thump echoes from the hallway.
 
 ## :gem: What do you do?
 
-- **Investigate the noise — Someone may be inside the house** — [Investigate the noise](scene-4C.md) :sparkles:
+- **Investigate the noise — Someone may be inside the house** — [Investigate the noise](scene4C.md) :sparkles:
 - **Search for the secret door mentioned in the note** — [Find the secret door](scene4B.md) :sparkles:
