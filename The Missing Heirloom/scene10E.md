@@ -30,7 +30,9 @@ He sounds sincere, but sincere isn't proof. You have your doubts in Uncle Ray ba
 
  
 
-Ray lifts his chin. "Search me if you have to. But with Betty as a witness, nothing between us will ever be the same.
+Ray lifts his chin. 
+
+> "Search me if you have to. But with Betty as a witness, nothing between us will ever be the same."
 
  
 
