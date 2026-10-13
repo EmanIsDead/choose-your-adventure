@@ -9,4 +9,4 @@ Something seems off. The men. The eerie feeling. You're not sure if you are safe
 ## :gem: What is your next move?  
 
 - **Leave the house** — [Leave the house](scene9A.md) :sparkles:
-- **Stay and have discussions with men** — [Stay for discussions](scene7B.md) :sparkles:
+- **Stay and have discussions with men** — [Stay for discussions](scene9B.md) :sparkles:
