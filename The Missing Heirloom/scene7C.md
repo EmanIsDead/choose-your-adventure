@@ -10,5 +10,5 @@ In the morning, you have some conflict with your new plan. You need help, but fr
 
 ## :gem: Who are you calling? 
 
-- **Call friends and family** — [Call friends and family](scene7B.md) :sparkles:
+- **Call friends and family** — [Call friends and family](scene8E.md) :sparkles:
 - **Call the police** — [Call the police](scene7B.md) :sparkles:
