@@ -13,5 +13,5 @@ When you saw them pull into the driveway and begin their walk to your door, you 
 
 ## :gem: What did the police report?
 
-- **Police report** — [Choose ending 1](story_ending1.md) :sparkles:
-- **Police report** — [Choose ending 3](story_ending3.md) :sparkles:
+- **Police report** — [Police Report 1](story_ending1.md) :sparkles:
+- **Police report** — [Police Report 2](story_ending3.md) :sparkles:
