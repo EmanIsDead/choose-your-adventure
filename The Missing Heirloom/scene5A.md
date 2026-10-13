@@ -20,5 +20,5 @@ The tension in the room is suffocating. Your fists are now clenched. Ray’s eye
 
 ## :gem: What do you do?
 
-- **Trust Ray’s explanation** — [Go to Ending 2](story_ending2.md) :sparkles:
-- **Demand the full truth** — [Go to Ending 1](story_ending1.md) :sparkles:
+- **Trust Ray’s explanation** — [Trust Ray](story_ending2.md) :sparkles:
+- **Demand the full truth** — [Demand the truth](story_ending1.md) :sparkles:
