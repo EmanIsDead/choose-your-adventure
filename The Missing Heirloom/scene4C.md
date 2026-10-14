@@ -9,4 +9,4 @@ You think to yourself, "Is this the person who took the heirloom?"
 ## :gem: What do you do?
 
 - **Chase the intruder** — [Chase the intruder](scene5C.md) :sparkles:
-- **Find Uncle Ray** — [Find Uncle Ray](scene5A.md) :sparkles: 
+- **Go back to Uncle Ray** — [Find Uncle Ray](scene5A.md) :sparkles: 
