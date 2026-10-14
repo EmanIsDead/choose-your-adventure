@@ -1,4 +1,4 @@
-#  :star2:Scene 5B — Final Discovery
+#  :warning:Scene 5B — Hidden Room
 
 The hidden door creaks open. You see a small room, lit by only a single lantern. Dust is floating all over in the air. You cautiously step inside. 
 
